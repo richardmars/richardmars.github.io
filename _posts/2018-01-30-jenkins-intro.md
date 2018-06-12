@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jenkis介绍"
+title:  "Jenkis介绍"
 date:   2018-01-30 23:34:40 +0800
 categories: jekyll update
 ---
